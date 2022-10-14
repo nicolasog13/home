@@ -2,3 +2,7 @@ body {
     background-color: #00003f;
     color: lightgray;
 }
+
+header h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
