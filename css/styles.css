@@ -3,6 +3,14 @@ body {
     color: lightgray;
 }
 
+.projects {
+    border: 1px solid black;
+}
+
+.header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 header h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

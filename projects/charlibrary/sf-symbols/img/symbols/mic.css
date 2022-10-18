@@ -1,0 +1,56 @@
+.mic-icon {
+    /* Icons=mic */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 20px;
+top: 20px;
+
+
+
+/* mic */
+
+position: absolute;
+width: 17.8px;
+height: 27.3px;
+left: 5px;
+top: 0px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 17.86%;
+right: 18.57%;
+top: 0%;
+bottom: 2.51%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 17.8px;
+height: 27.3px;
+left: calc(50% - 17.8px/2 - 0.1px);
+top: calc(50% - 27.3px/2 - 0.35px);
+
+/* Secondary Color */
+background: #FFFFFF;
+opacity: 0;
+
+
+/* Vector */
+
+position: absolute;
+width: 17.8px;
+height: 25.77px;
+left: calc(50% - 17.8px/2 - 0.1px);
+top: calc(50% - 25.77px/2 - 1.11px);
+
+/* Primery Color */
+background: #000000;
+
+}
