@@ -3,6 +3,11 @@ body {
     color: lightgray;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 .projects {
     border: 1px solid black;
 }
