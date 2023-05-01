@@ -21,8 +21,7 @@ header h1 {
 }
 
 .notice {
-    color: black;
-    background-color: lawngreen;
+    color: lightslategray;
     opacity: 0.5;
     border-radius: 10px;
 }
